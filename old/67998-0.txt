@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of Beam Pirate, by George O. Smith
+The Project Gutenberg eBook of Beam Pirate, by George O. Smith
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -13,6 +13,7 @@ Title: Beam Pirate
 Author: George O. Smith
 
 Release Date: May 6, 2022 [eBook #67998]
+[Most recently updated: July 10, 2022]
 
 Language: English
 
@@ -1201,7 +1202,7 @@ ten easy lessons."
        *       *       *       *       *
 
 "Call Charley and have him begin to concoct an RF stage for
-tube-modulation," said Dan. "It'll have to be fairly low--not higher
+tube-modulation," said Don. "It'll have to be fairly low--not higher
 than a couple of megacycles so that he can handle it with the stuff
 he has available, but as long as we can hear his dulcet voice
 chirping that 'one, two, three, four, test,' of his, we can also have
